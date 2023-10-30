@@ -40,7 +40,7 @@ Take note, my setup file only includes Fedora Distro, and may not support other 
 
 1. git clone the repository
 ```
-    clone repo
+   git clone https://github.com/Ryotard/dotFiles.git
 ```
 
 2. Go to the directory of the dot files
@@ -80,7 +80,7 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/p
 
     ``plugins=(git)`` replace it with ``plugins=(git zsh-autosuggestions zsh-syntax-highlighting)``
 
-# Gnome Extensions 
+# GnomeExtensions 
 1. Aylur's Widgets
 2. Blur My Shell
 3. Arc Menu
